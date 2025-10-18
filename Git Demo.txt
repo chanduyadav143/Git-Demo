@@ -1,1 +1,2 @@
-This is for Testing Git Conflict
+This is for Test Git Conflict.
+to Verify the chnages,
